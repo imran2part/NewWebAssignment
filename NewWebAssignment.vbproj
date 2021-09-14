@@ -93,6 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="LoginPage.aspx" />
+    <Content Include="product list.aspx" />
     <Content Include="StyleSheet.css" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -122,6 +123,13 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="product list.aspx.designer.vb">
+      <DependentUpon>product list.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="product list.aspx.vb">
+      <DependentUpon>product list.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
