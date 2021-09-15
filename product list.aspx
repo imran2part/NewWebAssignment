@@ -9,6 +9,13 @@
 	  type="image/png" 
 	  href="main_resources/icon.jpg" 
 	  sizes="96x96">
+	<doy></doy>
+
+
+
+
+
+
 
 
 
