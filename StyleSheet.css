@@ -81,7 +81,7 @@ p {
 
 /*Top Section*/
 .topbanner {
-    background-image: url(main_resources/text.jpg);
+    background-image: url(main_resources/white.jpg);
     background-repeat: no-repeat;
     border-radius: 20px;
     height: 252px;
@@ -172,7 +172,7 @@ p {
 .homepage-maintext-bg {
     width: 990px;
     height: 1300px;
-    background: url(main_resources/text.jpg) repeat-y top left;
+    background: url(main_resources/white.jpg) repeat-y top left;
     border-radius: 20px;
 }
 
@@ -324,7 +324,7 @@ img.line_break {
 /*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Product List Page CSS@@@@@@@@@@@@@@@@@@@@@@@@*/
 /*dropdown button contents*/
 .pl_buttons {
-    background-image: url(main_resources/text.jpg);
+    background-image: url(main_resources/white.jpg);
     border: none;
     color: #beb98f;
     font-family: "Arial Black";
@@ -339,7 +339,7 @@ img.line_break {
 .productlist_content {
     display: none;
     position: absolute;
-    background-image: url(main_resources/text.jpg);
+    background-image: url(main_resources/white.jpg);
     min-width: 150px;
     box-shadow: 0px 8px 16px 0px;
 }
@@ -370,7 +370,7 @@ img.line_break {
 .product_maintext_bg {
     width: 1000px;
     height: 2000px;
-    background: url(main_resources/text.jpg) repeat-y top left;
+    background: url(main_resources/white.jpg) repeat-y top left;
     border-radius: 20px;
 }
 
@@ -441,7 +441,7 @@ img.line_break {
 /*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Event Page CSS@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
 /*dropdown button contents*/
 .events {
-    background: url(main_resources/text.jpg);
+    background: url(main_resources/white.jpg);
     border: none;
     color: #beb98f;
     font-family: "Arial Black";
@@ -451,7 +451,7 @@ img.line_break {
 }
 
 .e_buttons {
-    background-image: url(main_resources/text.jpg);
+    background-image: url(main_resources/white.jpg);
     border: none;
     color: #beb98f;
     font-family: "Arial Black";
@@ -466,7 +466,7 @@ img.line_break {
 .events_content {
     display: none;
     position: absolute;
-    background-image: url(main_resources/text.jpg);
+    background-image: url(main_resources/white.jpg);
     min-width: 150px;
     box-shadow: 0px 8px 16px 0px;
 }
@@ -497,7 +497,7 @@ img.line_break {
 .event_maintext_bg {
     width: 1000px;
     height: 1300px;
-    background: url(main_resources/text.jpg) repeat-y top left;
+    background: url(main_resources/white.jpg) repeat-y top left;
     border-radius: 20px;
 }
 
@@ -623,7 +623,7 @@ p.event_8 {
 /*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Cart Page CSS@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
 /*dropdown button contents*/
 .c_buttons {
-    background-image: url(main_resources/text.jpg);
+    background-image: url(main_resources/white.jpg);
     border: none;
     color: #beb98f;
     font-family: "Arial Black";
@@ -638,7 +638,7 @@ p.event_8 {
 .cart_content {
     display: none;
     position: absolute;
-    background-image: url(main_resources/text.jpg);
+    background-image: url(main_resources/white.jpg);
     min-width: 150px;
     box-shadow: 0px 8px 16px 0px;
 }
@@ -681,7 +681,7 @@ p.event_8 {
 .aboutus_maintext_bg {
     width: 990px;
     height: 900px;
-    background: url(main_resources/text.jpg) repeat-y top left;
+    background: url(main_resources/white.jpg) repeat-y top left;
     border-radius: 20px;
 }
 
@@ -699,7 +699,7 @@ img.audeco {
 .help_maintext_bg {
     width: 990px;
     min-height: 680px;
-    background: url(main_resources/text.jpg) repeat-y top left;
+    background: url(main_resources/white.jpg) repeat-y top left;
     border-radius: 20px;
 }
 
@@ -775,7 +775,7 @@ img.help_menu {
 /*Bottom Section*/
 /*footer*/
 .footer {
-    background-image: url(main_resources/text.jpg);
+    background-image: url(main_resources/white.jpg);
     width: 963px;
     border-radius: 20px;
     height: 280px;
@@ -935,14 +935,14 @@ span.psw {
 .popup_maintext_bg {
     width: 990px;
     height: 450px;
-    background: url(main_resources/text.jpg) repeat-y top left;
+    background: url(main_resources/white.jpg) repeat-y top left;
     border-radius: 20px;
 }
 
 .popup_giftlist_maintext_bg {
     width: 990px;
     height: 920px;
-    background: url(main_resources/text.jpg) repeat-y top left;
+    background: url(main_resources/white.jpg) repeat-y top left;
     border-radius: 20px;
 }
 

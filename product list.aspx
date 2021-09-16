@@ -28,7 +28,7 @@
 <body>
 <a name="top"></a>
 <!--Background Image-->
-<img src="main_resources/rose.jpg" class="background"/>
+<img src="main_resources/blue.jpg" class="background"/>
 <!--Side Hover Menu Section-->
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" 
